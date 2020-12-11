@@ -36,6 +36,8 @@ TODO
 
   - > For those of you using Node 14, you'll need to launch ganache-cli via node 8, 10, or 12 until this is fixed. For example, run nvm use 12 && npm install ganache-cli -g to install for node 12, and then run ganache-cli with nvm use 12 && ganache-cli.
 
+- start ganache-cli (default use port 8545): `ganache-cli`
+
 - Install npm dependencies: `npm install`
 
 - Install project dependencies:
